@@ -1,0 +1,14 @@
+C:\Users\Yoshlin Martin\source\repos\InventoryManager\InventoryManager\bin\Debug\net10.0\InventoryManager.exe
+C:\Users\Yoshlin Martin\source\repos\InventoryManager\InventoryManager\bin\Debug\net10.0\InventoryManager.deps.json
+C:\Users\Yoshlin Martin\source\repos\InventoryManager\InventoryManager\bin\Debug\net10.0\InventoryManager.runtimeconfig.json
+C:\Users\Yoshlin Martin\source\repos\InventoryManager\InventoryManager\bin\Debug\net10.0\InventoryManager.dll
+C:\Users\Yoshlin Martin\source\repos\InventoryManager\InventoryManager\bin\Debug\net10.0\InventoryManager.pdb
+C:\Users\Yoshlin Martin\source\repos\InventoryManager\InventoryManager\obj\Debug\net10.0\InventoryManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoshlin Martin\source\repos\InventoryManager\InventoryManager\obj\Debug\net10.0\InventoryManager.AssemblyInfoInputs.cache
+C:\Users\Yoshlin Martin\source\repos\InventoryManager\InventoryManager\obj\Debug\net10.0\InventoryManager.AssemblyInfo.cs
+C:\Users\Yoshlin Martin\source\repos\InventoryManager\InventoryManager\obj\Debug\net10.0\InventoryManager.csproj.CoreCompileInputs.cache
+C:\Users\Yoshlin Martin\source\repos\InventoryManager\InventoryManager\obj\Debug\net10.0\InventoryManager.dll
+C:\Users\Yoshlin Martin\source\repos\InventoryManager\InventoryManager\obj\Debug\net10.0\refint\InventoryManager.dll
+C:\Users\Yoshlin Martin\source\repos\InventoryManager\InventoryManager\obj\Debug\net10.0\InventoryManager.pdb
+C:\Users\Yoshlin Martin\source\repos\InventoryManager\InventoryManager\obj\Debug\net10.0\InventoryManager.genruntimeconfig.cache
+C:\Users\Yoshlin Martin\source\repos\InventoryManager\InventoryManager\obj\Debug\net10.0\ref\InventoryManager.dll
