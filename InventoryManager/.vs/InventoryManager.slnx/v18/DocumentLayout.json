@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Yoshlin Martin\\source\\repos\\InventoryManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8668E7DB-6037-4923-80A5-8AE55A2D9E06}|InventoryManager\\InventoryManager.csproj|c:\\users\\yoshlin martin\\source\\repos\\inventorymanager\\inventorymanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8668E7DB-6037-4923-80A5-8AE55A2D9E06}|InventoryManager\\InventoryManager.csproj|solutionrelative:inventorymanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53AC5AE8-37C4-7939-E43F-DB4630AD3A61}|InventoryManager\\InventoryManager.csproj|c:\\users\\yoshlin martin\\source\\repos\\inventorymanager\\inventorymanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53AC5AE8-37C4-7939-E43F-DB4630AD3A61}|InventoryManager\\InventoryManager.csproj|solutionrelative:inventorymanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,9 +44,9 @@
               "RelativeDocumentMoniker": "InventoryManager\\Program.cs",
               "ToolTip": "C:\\Users\\Yoshlin Martin\\source\\repos\\InventoryManager\\InventoryManager\\Program.cs",
               "RelativeToolTip": "InventoryManager\\Program.cs",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAgwL0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAiwI4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T12:53:07.542Z",
+              "WhenOpened": "2026-03-23T13:26:13.318Z",
               "EditorCaption": ""
             }
           ]
